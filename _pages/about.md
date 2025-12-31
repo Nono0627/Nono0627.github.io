@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 This is my personal website.
+
 <!--
 A data-driven personal website
 ======
