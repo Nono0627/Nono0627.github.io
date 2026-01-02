@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This is my personal website.
+Hello! My name is Binyu Zhong and my English name is Nono. I'm a PhD student specializing in astrophysics. I'm very interested in mathematics and physics. Besides, I like cooking and I love everything about art especially music and literature. Nice to meet you!
 
 <!--
 A data-driven personal website
